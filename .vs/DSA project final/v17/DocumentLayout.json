@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\DSA project final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE263979-B8FE-43C4-98EC-D3C95CA46C24}|DSA project final\\DSA project final.vcxproj|D:\\visual studio\\DSA project final\\DSA project final\\DSA project final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE263979-B8FE-43C4-98EC-D3C95CA46C24}|DSA project final\\DSA project final.vcxproj|solutionrelative:DSA project final\\DSA project final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DSA project final.cpp",
+              "DocumentMoniker": "D:\\visual studio\\DSA project final\\DSA project final\\DSA project final.cpp",
+              "RelativeDocumentMoniker": "DSA project final\\DSA project final.cpp",
+              "ToolTip": "D:\\visual studio\\DSA project final\\DSA project final\\DSA project final.cpp",
+              "RelativeToolTip": "DSA project final\\DSA project final.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-02T14:57:48.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

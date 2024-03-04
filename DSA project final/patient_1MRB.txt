@@ -1,0 +1,4 @@
+
+Patient ID: 1
+Report add-time: 2023-12-04 19:36:48
+Current report: Add him to the radiotherapy queue
